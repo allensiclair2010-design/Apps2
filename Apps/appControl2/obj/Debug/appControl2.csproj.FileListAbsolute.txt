@@ -1,0 +1,33 @@
+C:\Users\LEGION\source\repos\appControl2\appControl2\bin\Debug\appControl2.exe.config
+C:\Users\LEGION\source\repos\appControl2\appControl2\bin\Debug\appControl2.exe
+C:\Users\LEGION\source\repos\appControl2\appControl2\bin\Debug\appControl2.pdb
+C:\Users\LEGION\source\repos\appControl2\appControl2\obj\Debug\appControl2.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\appControl2\appControl2\obj\Debug\appControl2.Form1.resources
+C:\Users\LEGION\source\repos\appControl2\appControl2\obj\Debug\appControl2.Properties.Resources.resources
+C:\Users\LEGION\source\repos\appControl2\appControl2\obj\Debug\appControl2.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\appControl2\appControl2\obj\Debug\appControl2.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\appControl2\appControl2\obj\Debug\appControl2.exe
+C:\Users\LEGION\source\repos\appControl2\appControl2\obj\Debug\appControl2.pdb
+C:\Users\LEGION\source\repos\appControl2\appControl2\obj\Debug\appControl2.exe.config
+C:\Users\admin\Desktop\appControl2\appControl2\obj\Debug\appControl2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\appControl2\appControl2\obj\Debug\appControl2.exe.config
+C:\Users\admin\Desktop\appControl2\appControl2\obj\Debug\apps.Form1.resources
+C:\Users\admin\Desktop\appControl2\appControl2\obj\Debug\appControl2.Properties.Resources.resources
+C:\Users\admin\Desktop\appControl2\appControl2\obj\Debug\appControl2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\appControl2\appControl2\obj\Debug\appControl2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\appControl2\appControl2\obj\Debug\appControl2.exe
+C:\Users\admin\Desktop\appControl2\appControl2\obj\Debug\appControl2.pdb
+C:\Users\admin\Desktop\appControl2\appControl2\bin\Debug\appControl2.exe.config
+C:\Users\admin\Desktop\appControl2\appControl2\bin\Debug\appControl2.exe
+C:\Users\admin\Desktop\appControl2\appControl2\bin\Debug\appControl2.pdb
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\bin\Debug\appControl2.exe.config
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\bin\Debug\appControl2.exe
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\bin\Debug\appControl2.pdb
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\obj\Debug\appControl2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\obj\Debug\appControl2.exe.config
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\obj\Debug\apps.Form1.resources
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\obj\Debug\appControl2.Properties.Resources.resources
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\obj\Debug\appControl2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\obj\Debug\appControl2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\obj\Debug\appControl2.exe
+C:\Users\admin\Desktop\Sexto semestre\Apps\appControl2\obj\Debug\appControl2.pdb
